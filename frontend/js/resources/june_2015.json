@@ -1,0 +1,184 @@
+[
+  {
+    "day":5,
+    "newt1":"Luke 23",
+    "ps":"Psalms 16",
+    "newt2":"Philemon 1",
+    "oldt":"Job: 19-20"
+  },
+  {
+    "day":6,
+    "newt1":"Luke 24",
+    "ps":"Psalms 17",
+    "newt2":"Romans 1",
+    "oldt":"Job: 21-22"
+  },
+  {
+    "day":7,
+    "newt1":"John 1",
+    "ps":"Psalms 18",
+    "newt2":"Romans 2",
+    "oldt":"Job: 23-24"
+  },
+  {
+    "day":8,
+    "newt1":"John 2",
+    "ps":"Psalms 19",
+    "newt2":"Romans 3",
+    "oldt":"Job: 25-26"
+  },
+  {
+    "day":9,
+    "newt1":"John 3",
+    "ps":"Psalms 20",
+    "newt2":"Romans 4",
+    "oldt":"Job: 27-28"
+  },
+  {
+    "day":10,
+    "newt1":"John 4",
+    "ps":"Psalms 21",
+    "newt2":"Romans 5",
+    "oldt":"Job: 29-30"
+  },
+  {
+    "day":11,
+    "newt1":"John 5",
+    "ps":"Psalms 22",
+    "newt2":"Romans 6",
+    "oldt":"Job: 31-32"
+  },
+  {
+    "day":12,
+    "newt1":"John 6",
+    "ps":"Psalms 23",
+    "newt2":"Romans 7",
+    "oldt":"Job: 33-34"
+  },
+  {
+    "day":13,
+    "newt1":"John 7",
+    "ps":"Psalms 24",
+    "newt2":"Romans 8",
+    "oldt":"Job: 35-36"
+  },
+  {
+    "day":14,
+    "newt1":"John 8",
+    "ps":"Psalms 25",
+    "newt2":"Romans 9",
+    "oldt":"Job: 37-38"
+  },
+  {
+    "day":15,
+    "newt1":"John 9",
+    "ps":"Psalms 26",
+    "newt2":"Romans 10",
+    "oldt":"Job: 39-40"
+  },
+  {
+    "day":16,
+    "newt1":"John 10",
+    "ps":"Psalms 27",
+    "newt2":"Romans 11",
+    "oldt":"Job: 41-42"
+  },
+  {
+    "day":17,
+    "newt1":"John 11",
+    "ps":"Psalms 28",
+    "newt2":"Romans 12",
+    "oldt":"Genesis: 1-2"
+  },
+  {
+    "day":18,
+    "newt1":"John 12",
+    "ps":"Psalms 29",
+    "newt2":"Romans 13",
+    "oldt":"Genesis: 3-4"
+  },
+  {
+    "day":19,
+    "newt1":"John 13",
+    "ps":"Psalms 30",
+    "newt2":"Romans 14",
+    "oldt":"Genesis: 5-6"
+  },
+  {
+    "day":20,
+    "newt1":"John 14",
+    "ps":"Psalms 31",
+    "newt2":"Romans 15",
+    "oldt":"Genesis: 7-8"
+  },
+  {
+    "day":21,
+    "newt1":"John 15",
+    "ps":"Psalms 32",
+    "newt2":"Romans 16",
+    "oldt":"Genesis: 9-10"
+  },
+  {
+    "day":22,
+    "newt1":"John 16",
+    "ps":"Psalms 33",
+    "newt2":"Titus 1",
+    "oldt":"Genesis: 11-12"
+  },
+  {
+    "day":23,
+    "newt1":"John 17",
+    "ps":"Psalms 34",
+    "newt2":"Titus 2",
+    "oldt":"Genesis: 13-14"
+  },
+  {
+    "day":24,
+    "newt1":"John 18",
+    "ps":"Psalms 35",
+    "newt2":"Titus 3",
+    "oldt":"Genesis: 15-16"
+  },
+  {
+    "day":25,
+    "newt1":"John 19",
+    "ps":"Psalms 36",
+    "newt2":"1 Corinthian 1",
+    "oldt":"Genesis: 17-18"
+  },
+  {
+    "day":26,
+    "newt1":"John 20",
+    "ps":"Psalms 37",
+    "newt2":"1 Corinthian 2",
+    "oldt":"Genesis: 19-20"
+  },
+  {
+    "day":27,
+    "newt1":"John 21",
+    "ps":"Psalms 38",
+    "newt2":"1 Corinthian 3",
+    "oldt":"Genesis: 21-22"
+  },
+  {
+    "day":28,
+    "newt1":"Matthew 1",
+    "ps":"Psalms 39",
+    "newt2":"1 Corinthian 4",
+    "oldt":"Genesis: 23-24"
+  },
+  {
+    "day":29,
+    "newt1":"Matthew 2",
+    "ps":"Psalms 40",
+    "newt2":"1 Corinthian 5",
+    "oldt":"Genesis: 25-26"
+  },
+  {
+    "day":30,
+    "newt1":"Matthew 3",
+    "ps":"Psalms 41",
+    "newt2":"1 Corinthian 6",
+    "oldt":"Genesis: 27-28"
+  }
+]
