@@ -31,4 +31,9 @@ li {
 
 .about-list li {
   list-style: circle;
+  font-size: 9px;
+}
+
+.strong {
+  font-weight: bold;
 }
