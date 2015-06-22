@@ -1,0 +1,67 @@
+osisID,BookName,Paratext
+Gen,Genesis,GEN
+Exod,Exodus,EXO
+Lev,Leviticus,LEV
+Num,Numbers,NUM
+Deut,Deuteronomy,DEU
+Josh,Joshua,JOS
+Judg,Judges,JDG
+Ruth,Ruth,RUT
+1Sam,1 Samuel,1SA
+2Sam,2 Samuel,2SA
+1Kgs,1 Kings,1KI
+2Kgs,2 Kings,2KI
+1Chr,1 Chronicles,1CH
+2Chr,2 Chronicles,2CH
+Ezra,Ezra,EZR
+Neh,Nehemiah,NEH
+Esth,Esther[6],EST
+Job,Job,JOB
+Ps,Psalms,PSA
+Prov,Proverbs,PRO
+Eccl,Ecclesiastes,ECC
+Song,Song of Solomon,SNG
+Isa,Isaiah,ISA
+Jer,Jeremiah,JER
+Lam,Lamentations,LAM
+Ezek,Ezekiel,EZK
+Dan,Daniel,DAN
+Hos,Hosea,HOS
+Joel,Joel,JOL
+Amos,Amos,AMO
+Obad,Obadiah,OBA
+Jonah,Jonah,JON
+Mic,Micah,MIC
+Nah,Nahum,NAM
+Hab,Habakkuk,HAB
+Zeph,Zephaniah,ZEP
+Hag,Haggai,HAG
+Zech,Zechariah,ZEC
+Mal,Malachi,MAL
+Matt,Matthew,MAT
+Mark,Mark,MRK
+Luke,Luke,LUK
+John,John,JHN
+Acts,Acts,ACT
+Rom,Romans,ROM
+1Cor,1 Corinthians,1CO
+2Cor,2 Corinthians,2CO
+Gal,Galatians,GAL
+Eph,Ephesians,EPH
+Phil,Philippians,PHP
+Col,Colossians,COL
+1Thess,1 Thessalonians,1TH
+2Thess,2 Thessalonians,2TH
+1Tim,1 Timothy,1TI
+2Tim,2 Timothy,2TI
+Titus,Titus,TIT
+Phlm,Philemon,PHM
+Heb,Hebrews,HEB
+Jas,James,JAS
+1Pet,1 Peter,1PE
+2Pet,2 Peter,2PE
+1John,1 John,1JN
+2John,2 John,2JN
+3John,3 John,3JN
+Jude,Jude,JUD
+Rev,Revelation,REV

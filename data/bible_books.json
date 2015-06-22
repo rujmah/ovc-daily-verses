@@ -1,0 +1,332 @@
+[
+  {
+    "osisID": "Gen",
+    "Paratext": "GEN",
+    "BookName": "Genesis"
+  },
+  {
+    "osisID": "Exod",
+    "Paratext": "EXO",
+    "BookName": "Exodus"
+  },
+  {
+    "osisID": "Lev",
+    "Paratext": "LEV",
+    "BookName": "Leviticus"
+  },
+  {
+    "osisID": "Num",
+    "Paratext": "NUM",
+    "BookName": "Numbers"
+  },
+  {
+    "osisID": "Deut",
+    "Paratext": "DEU",
+    "BookName": "Deuteronomy"
+  },
+  {
+    "osisID": "Josh",
+    "Paratext": "JOS",
+    "BookName": "Joshua"
+  },
+  {
+    "osisID": "Judg",
+    "Paratext": "JDG",
+    "BookName": "Judges"
+  },
+  {
+    "osisID": "Ruth",
+    "Paratext": "RUT",
+    "BookName": "Ruth"
+  },
+  {
+    "osisID": "1Sam",
+    "Paratext": "1SA",
+    "BookName": "1 Samuel"
+  },
+  {
+    "osisID": "2Sam",
+    "Paratext": "2SA",
+    "BookName": "2 Samuel"
+  },
+  {
+    "osisID": "1Kgs",
+    "Paratext": "1KI",
+    "BookName": "1 Kings"
+  },
+  {
+    "osisID": "2Kgs",
+    "Paratext": "2KI",
+    "BookName": "2 Kings"
+  },
+  {
+    "osisID": "1Chr",
+    "Paratext": "1CH",
+    "BookName": "1 Chronicles"
+  },
+  {
+    "osisID": "2Chr",
+    "Paratext": "2CH",
+    "BookName": "2 Chronicles"
+  },
+  {
+    "osisID": "Ezra",
+    "Paratext": "EZR",
+    "BookName": "Ezra"
+  },
+  {
+    "osisID": "Neh",
+    "Paratext": "NEH",
+    "BookName": "Nehemiah"
+  },
+  {
+    "osisID": "Esth",
+    "Paratext": "EST",
+    "BookName": "Esther[6]"
+  },
+  {
+    "osisID": "Job",
+    "Paratext": "JOB",
+    "BookName": "Job"
+  },
+  {
+    "osisID": "Ps",
+    "Paratext": "PSA",
+    "BookName": "Psalms"
+  },
+  {
+    "osisID": "Prov",
+    "Paratext": "PRO",
+    "BookName": "Proverbs"
+  },
+  {
+    "osisID": "Eccl",
+    "Paratext": "ECC",
+    "BookName": "Ecclesiastes"
+  },
+  {
+    "osisID": "Song",
+    "Paratext": "SNG",
+    "BookName": "Song of Solomon"
+  },
+  {
+    "osisID": "Isa",
+    "Paratext": "ISA",
+    "BookName": "Isaiah"
+  },
+  {
+    "osisID": "Jer",
+    "Paratext": "JER",
+    "BookName": "Jeremiah"
+  },
+  {
+    "osisID": "Lam",
+    "Paratext": "LAM",
+    "BookName": "Lamentations"
+  },
+  {
+    "osisID": "Ezek",
+    "Paratext": "EZK",
+    "BookName": "Ezekiel"
+  },
+  {
+    "osisID": "Dan",
+    "Paratext": "DAN",
+    "BookName": "Daniel"
+  },
+  {
+    "osisID": "Hos",
+    "Paratext": "HOS",
+    "BookName": "Hosea"
+  },
+  {
+    "osisID": "Joel",
+    "Paratext": "JOL",
+    "BookName": "Joel"
+  },
+  {
+    "osisID": "Amos",
+    "Paratext": "AMO",
+    "BookName": "Amos"
+  },
+  {
+    "osisID": "Obad",
+    "Paratext": "OBA",
+    "BookName": "Obadiah"
+  },
+  {
+    "osisID": "Jonah",
+    "Paratext": "JON",
+    "BookName": "Jonah"
+  },
+  {
+    "osisID": "Mic",
+    "Paratext": "MIC",
+    "BookName": "Micah"
+  },
+  {
+    "osisID": "Nah",
+    "Paratext": "NAM",
+    "BookName": "Nahum"
+  },
+  {
+    "osisID": "Hab",
+    "Paratext": "HAB",
+    "BookName": "Habakkuk"
+  },
+  {
+    "osisID": "Zeph",
+    "Paratext": "ZEP",
+    "BookName": "Zephaniah"
+  },
+  {
+    "osisID": "Hag",
+    "Paratext": "HAG",
+    "BookName": "Haggai"
+  },
+  {
+    "osisID": "Zech",
+    "Paratext": "ZEC",
+    "BookName": "Zechariah"
+  },
+  {
+    "osisID": "Mal",
+    "Paratext": "MAL",
+    "BookName": "Malachi"
+  },
+  {
+    "osisID": "Matt",
+    "Paratext": "MAT",
+    "BookName": "Matthew"
+  },
+  {
+    "osisID": "Mark",
+    "Paratext": "MRK",
+    "BookName": "Mark"
+  },
+  {
+    "osisID": "Luke",
+    "Paratext": "LUK",
+    "BookName": "Luke"
+  },
+  {
+    "osisID": "John",
+    "Paratext": "JHN",
+    "BookName": "John"
+  },
+  {
+    "osisID": "Acts",
+    "Paratext": "ACT",
+    "BookName": "Acts"
+  },
+  {
+    "osisID": "Rom",
+    "Paratext": "ROM",
+    "BookName": "Romans"
+  },
+  {
+    "osisID": "1Cor",
+    "Paratext": "1CO",
+    "BookName": "1 Corinthians"
+  },
+  {
+    "osisID": "2Cor",
+    "Paratext": "2CO",
+    "BookName": "2 Corinthians"
+  },
+  {
+    "osisID": "Gal",
+    "Paratext": "GAL",
+    "BookName": "Galatians"
+  },
+  {
+    "osisID": "Eph",
+    "Paratext": "EPH",
+    "BookName": "Ephesians"
+  },
+  {
+    "osisID": "Phil",
+    "Paratext": "PHP",
+    "BookName": "Philippians"
+  },
+  {
+    "osisID": "Col",
+    "Paratext": "COL",
+    "BookName": "Colossians"
+  },
+  {
+    "osisID": "1Thess",
+    "Paratext": "1TH",
+    "BookName": "1 Thessalonians"
+  },
+  {
+    "osisID": "2Thess",
+    "Paratext": "2TH",
+    "BookName": "2 Thessalonians"
+  },
+  {
+    "osisID": "1Tim",
+    "Paratext": "1TI",
+    "BookName": "1 Timothy"
+  },
+  {
+    "osisID": "2Tim",
+    "Paratext": "2TI",
+    "BookName": "2 Timothy"
+  },
+  {
+    "osisID": "Titus",
+    "Paratext": "TIT",
+    "BookName": "Titus"
+  },
+  {
+    "osisID": "Phlm",
+    "Paratext": "PHM",
+    "BookName": "Philemon"
+  },
+  {
+    "osisID": "Heb",
+    "Paratext": "HEB",
+    "BookName": "Hebrews"
+  },
+  {
+    "osisID": "Jas",
+    "Paratext": "JAS",
+    "BookName": "James"
+  },
+  {
+    "osisID": "1Pet",
+    "Paratext": "1PE",
+    "BookName": "1 Peter"
+  },
+  {
+    "osisID": "2Pet",
+    "Paratext": "2PE",
+    "BookName": "2 Peter"
+  },
+  {
+    "osisID": "1John",
+    "Paratext": "1JN",
+    "BookName": "1 John"
+  },
+  {
+    "osisID": "2John",
+    "Paratext": "2JN",
+    "BookName": "2 John"
+  },
+  {
+    "osisID": "3John",
+    "Paratext": "3JN",
+    "BookName": "3 John"
+  },
+  {
+    "osisID": "Jude",
+    "Paratext": "JUD",
+    "BookName": "Jude"
+  },
+  {
+    "osisID": "Rev",
+    "Paratext": "REV",
+    "BookName": "Revelation"
+  }
+]

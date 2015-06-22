@@ -1,0 +1,278 @@
+{
+  "Mark":{
+    "verses":"678  ",
+    "chapters":"16"
+  },
+  "Ephesians":{
+    "verses":"155  ",
+    "chapters":"6"
+  },
+  "Ruth":{
+    "verses":"85   ",
+    "chapters":"4"
+  },
+  "Ezekiel":{
+    "verses":"1273   ",
+    "chapters":"48"
+  },
+  "Ezra":{
+    "verses":"280  ",
+    "chapters":"10"
+  },
+  "Proverbs":{
+    "verses":"915  ",
+    "chapters":"31"
+  },
+  "1 Samuel":{
+    "verses":"810  ",
+    "chapters":"31"
+  },
+  "Nehemiah":{
+    "verses":"406  ",
+    "chapters":"13"
+  },
+  "Hebrews":{
+    "verses":"303  ",
+    "chapters":"13"
+  },
+  "Jude":{
+    "verses":"25   ",
+    "chapters":"1"
+  },
+  "2 Thessalonians":{
+    "verses":"47   ",
+    "chapters":"3"
+  },
+  "Numbers":{
+    "verses":"1288   ",
+    "chapters":"36"
+  },
+  "Micah":{
+    "verses":"105  ",
+    "chapters":"7"
+  },
+  "Judges":{
+    "verses":"618  ",
+    "chapters":"21"
+  },
+  "TOTAL":{
+    "verses":"31103",
+    "chapters":"1189"
+  },
+  "Deuteronomy":{
+    "verses":"959  ",
+    "chapters":"34"
+  },
+  "Leviticus":{
+    "verses":"859  ",
+    "chapters":"27"
+  },
+  "Song of Songs":{
+    "verses":"117  ",
+    "chapters":"8"
+  },
+  "New Testament":{
+    "verses":"7958     ",
+    "chapters":"260"
+  },
+  "Jeremiah":{
+    "verses":"1364   ",
+    "chapters":"52"
+  },
+  "Malachi":{
+    "verses":"55   ",
+    "chapters":"4"
+  },
+  "Exodus":{
+    "verses":"1213   ",
+    "chapters":"40"
+  },
+  "Psalms":{
+    "verses":"2461",
+    "chapters":"150"
+  },
+  "Daniel":{
+    "verses":"357  ",
+    "chapters":"12"
+  },
+  "1 John":{
+    "verses":"105  ",
+    "chapters":"5"
+  },
+  "Job":{
+    "verses":"1070   ",
+    "chapters":"42"
+  },
+  "2 John":{
+    "verses":"13   ",
+    "chapters":"1"
+  },
+  "1 Corinthians":{
+    "verses":"437  ",
+    "chapters":"16"
+  },
+  "1 Timothy":{
+    "verses":"113  ",
+    "chapters":"6"
+  },
+  "Isaiah":{
+    "verses":"1292   ",
+    "chapters":"66"
+  },
+  "Esther":{
+    "verses":"167  ",
+    "chapters":"10"
+  },
+  "Revelation":{
+    "verses":"404  ",
+    "chapters":"22"
+  },
+  "2 Kings":{
+    "verses":"719  ",
+    "chapters":"25"
+  },
+  "Joshua":{
+    "verses":"658  ",
+    "chapters":"24"
+  },
+  "Colossians":{
+    "verses":"95   ",
+    "chapters":"4"
+  },
+  "Zechariah":{
+    "verses":"211  ",
+    "chapters":"14"
+  },
+  "2 Corinthians":{
+    "verses":"257  ",
+    "chapters":"13"
+  },
+  "1 Peter":{
+    "verses":"105  ",
+    "chapters":"5"
+  },
+  "Obadiah":{
+    "verses":"21   ",
+    "chapters":"1"
+  },
+  "1 Kings":{
+    "verses":"816  ",
+    "chapters":"22"
+  },
+  "Old Testament":{
+    "verses":"23145",
+    "chapters":"929"
+  },
+  "3 John":{
+    "verses":"14   ",
+    "chapters":"1"
+  },
+  "Hosea":{
+    "verses":"197  ",
+    "chapters":"14"
+  },
+  "Philemon":{
+    "verses":"25   ",
+    "chapters":"1"
+  },
+  "Matthew":{
+    "verses":"1071   ",
+    "chapters":"28"
+  },
+  "Joel":{
+    "verses":"73   ",
+    "chapters":"3"
+  },
+  "2 Chronicles":{
+    "verses":"822  ",
+    "chapters":"36"
+  },
+  "Lamentations":{
+    "verses":"154  ",
+    "chapters":"5"
+  },
+  "Ecclesiastes":{
+    "verses":"222  ",
+    "chapters":"12"
+  },
+  "Galatians":{
+    "verses":"149  ",
+    "chapters":"6"
+  },
+  "Nahum":{
+    "verses":"47   ",
+    "chapters":"3"
+  },
+  "2 Peter":{
+    "verses":"61   ",
+    "chapters":"3"
+  },
+  "Zephaniah":{
+    "verses":"53   ",
+    "chapters":"3"
+  },
+  "2 Timothy":{
+    "verses":"83   ",
+    "chapters":"4"
+  },
+  "James":{
+    "verses":"108  ",
+    "chapters":"5"
+  },
+  "Philippians":{
+    "verses":"104  ",
+    "chapters":"4"
+  },
+  "Titus":{
+    "verses":"46   ",
+    "chapters":"3"
+  },
+  "Romans":{
+    "verses":"433  ",
+    "chapters":"16"
+  },
+  "Luke":{
+    "verses":"1151   ",
+    "chapters":"24"
+  },
+  "Genesis":{
+    "verses":"1533   ",
+    "chapters":"50"
+  },
+  "Jonah":{
+    "verses":"48   ",
+    "chapters":"4"
+  },
+  "John":{
+    "verses":"879  ",
+    "chapters":"21"
+  },
+  "Amos":{
+    "verses":"146  ",
+    "chapters":"9"
+  },
+  "Haggai":{
+    "verses":"38   ",
+    "chapters":"2"
+  },
+  "Acts":{
+    "verses":"1007   ",
+    "chapters":"28"
+  },
+  "Habakkuk":{
+    "verses":"56   ",
+    "chapters":"3"
+  },
+  "1 Chronicles":{
+    "verses":"942  ",
+    "chapters":"29"
+  },
+  "2 Samuel":{
+    "verses":"695  ",
+    "chapters":"24"
+  },
+  "1 Thessalonians":{
+    "verses":"89   ",
+    "chapters":"5"
+  }
+}
