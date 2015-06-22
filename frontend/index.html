@@ -12,6 +12,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.16/angular.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.16/angular-resource.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/angular-moment/0.10.1/angular-moment.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/3.9.3/lodash.min.js"></script>
@@ -19,7 +20,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
-  <body ng-app="ovcDailyVersesApp">
+  <body ng-app="dailyVersesApp">
 
     <!-- NAVBAR TOP -->
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -59,46 +60,21 @@
           Verses for {{day_of_month}} {{ month_name }}
         </h1>
         <table class="table table-striped">
-          <tr>
+          
+          <tr ng-repeat="verse in todays_verses">
             <td>
-              New Testament 1
+              {{verse.title}}
             </td>
             <td>
-              <a href="{{todays_verses.newt1.niv_link}}">
-                {{todays_verses.newt1.verse}} 
+              <a href="{{verse.niv_link}}" target="_blank">
+                {{verse.verse}} 
               </a>
             </td>
-          </tr>
-          <tr>
             <td>
-              Psalm
-            </td>
-            <td>
-              <a href="{{todays_verses.ps.niv_link}}">
-              {{todays_verses.ps.verse}} 
-              </a>
+              <a href="{{verse.niv_audio}}" target="_blank"><span class="fa fa-headphones"></span></a>
             </td>
           </tr>
-          <tr>
-            <td>
-              New Testament 2
-            </td>
-            <td>
-              <a href="{{todays_verses.newt2.niv_link}}">
-              {{todays_verses.newt2.verse}} 
-              </a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Old Testament
-            </td>
-            <td>
-              <a href="{{todays_verses.oldt.niv_link}}">
-              {{todays_verses.oldt.verse}} 
-              </a>
-            </td>
-          </tr>
+
         </table>
       </div>
 
@@ -109,7 +85,8 @@
     <script src="js/app.js"></script>
 
     <!-- Controllers -->
-    <script src="js/controllers/MainController.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/services.js"></script>
   </body>
 </html>
 

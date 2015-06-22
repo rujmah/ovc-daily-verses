@@ -1,1 +1,4 @@
-var app = angular.module("ovcDailyVersesApp", []);
+var app = angular.module('dailyVersesApp', [
+  'dailyVersesControllers' ,
+  'dailyVersesServices'
+  ]);
